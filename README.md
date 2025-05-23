@@ -118,7 +118,4 @@ Email: yahya.tawil@std.hku.edu.tr
 
 ---
 
-## 📄 References  
 
-For detailed theory, architecture diagrams, and algorithms, please refer to the original paper:  
-**Topic-Specific Web Crawler: A Study of Existing Architectures and Possible Improvements, Ahmed El Jouma & Yahya Tawil, 2021**
