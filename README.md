@@ -1,6 +1,6 @@
 # 📚 Topic-Specific Web Crawler  
 ### A Study of Existing Architectures and Possible Improvements  
-**Authors:** Ahmed El Jouma & Yahya Tawil  
+**Authors:** Ahmad El Jouma & Yahya Tawil  
 **Date:** April 14, 2021  
 
 ---
